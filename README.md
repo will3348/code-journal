@@ -1,3 +1,4 @@
 # code-journal
 assignment 1
-## today is a good day!
+## Jan 12, 2022
+
