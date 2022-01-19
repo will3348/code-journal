@@ -1,7 +1,7 @@
-# code-journal
-## Jan 19,2022 
+# Code-journal
+## Jan 19,2022 Journal Entry
 
-### I have to finish the Dated Journal Entry today.
+### I have to finish and submit the Dated Journal Entry today.
 ### I learnt Colour, typography and visual hierarchy.
 1. Visual Hierarchy is used to rank design elements and influence in the order you want your users to view them. By using principles like contrast, scale, balance and, more, you can help establish each element in its rightful place and help the most important elements stand out.
 2. Typography is the art and technique of arranging type to make written language legible, readable and appealing when displayed.
