@@ -1,4 +1,24 @@
 # Code-journal
+##Jan21, 2022 Journal Entry
+### Basic HTML
+#### basic sections of a document
+-header
+-navigation bar
+-main content
+-side bar
+-footer
+#### HTML for structuring content
+To implement such semantic mark up, HTML provides dedicated tags that you can use to represent such sections, for example:
+-header: <header>.
+-navigation bar: <nav>.
+-main content: <main>, with various content subsections represented by <article>, <section>, and <div> elements.
+-sidebar: <aside>; often placed inside <main>.
+-footer: <footer>.
+#### HTML layout elements in more detail
+  -semantic wrappers
+  -Non-semantic wrappers
+      span,div
+  
 ## Jan 19,2022 Journal Entry
 
 ### I have to finish and submit the Dated Journal Entry today.
