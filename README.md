@@ -1,29 +1,39 @@
 # Code-journal
 ##Jan21, 2022 Journal Entry
-### Basic HTML
-#### basic sections of a document
+### TODO
+-understand basic html, and load font to html.
+#### Basic HTML
+##### basic sections of a document
 - header
 - navigation bar
 - main content
 - side bar
 - footer
-#### HTML for structuring content
+##### HTML for structuring content
 To implement such semantic mark up, HTML provides dedicated tags that you can use to represent such sections, for example:
 - -header: <header>.
 - -navigation bar: <nav>.
 - -main content: <main>, with various content subsections represented by <article>, <section>, and <div> elements.
 - -sidebar: <aside>; often placed inside <main>.
 - -footer: <footer>.
-#### HTML layout elements in more detail
+##### HTML layout elements in more detail
   - -semantic wrappers
   - -Non-semantic wrappers
       span,div
-  ### Font
-  #### font loading strategies
+  #### Font
+  ##### font loading strategies
   - FOUT with Class – Best approach for most situations. (This works whether we use a font-hosting company or hosting our own fonts.)
   - Critical FOFT – Most performant approach. (This only works if we host our own fonts.)
-  #### Loading fonts with cloud-hosted fonts
+  ##### Loading fonts with cloud-hosted fonts
   - link rel="stylesheet" href="https://use.typekit.net/your-kit-id.css"
+### What I did
+  - watched vedio on youtube: “Modern Layouts: Getting Out of Our Ruts” by Jen Simmons – An Event Apart Austin 2015
+  - download a doccument software called Zeal. 
+  - look up the wrappers and try to understand
+### Problem and Resolve
+  - Didn't meet any problems. but there are couple things need to be careful.
+  - 1. download font as a file will make load in speed faster.
+  - 2. when linking a font to html, i should be careful of copyrights.
   
 ## Jan 19,2022 Journal Entry
 
