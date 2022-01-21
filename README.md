@@ -23,7 +23,7 @@ To implement such semantic mark up, HTML provides dedicated tags that you can us
   - FOUT with Class – Best approach for most situations. (This works whether we use a font-hosting company or hosting our own fonts.)
   - Critical FOFT – Most performant approach. (This only works if we host our own fonts.)
   #### Loading fonts with cloud-hosted fonts
-  - <link rel="stylesheet" href="https://use.typekit.net/your-kit-id.css">
+  - link rel="stylesheet" href="https://use.typekit.net/your-kit-id.css"
   
 ## Jan 19,2022 Journal Entry
 
