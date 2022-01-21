@@ -1,5 +1,5 @@
 # Code-journal
-##Jan21, 2022 Journal Entry
+## Jan21, 2022 Journal Entry
 ### TODO
 -understand basic html, and load font to html.
 #### Basic HTML
