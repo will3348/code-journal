@@ -1,4 +1,36 @@
 # Code-journal
+## Jan 24, 2022 Journal Entry
+## class notes
+### Terminology
+- display
+This property is used to set the layout of an element and its children.
+- main-axis
+This is defined by the `flex-direction`. If your flex-direction is set to row _(this is the default)_, then the main axis is horizontal. If your flex-direction is set to column, then the main axis is vertical. - items are set along this axis by using `justify-content`
+- cross-axis
+This is the other axis of a flex layout. It changes depending on your flex-direction - Items are positioned along this axis by using `align-items`
+### Terminology
+- flex container
+: The parent element of flex items. A flex container can also be a flex item. Use properties such as `flex-wrap`, `flex-flow` etc to customize how the items in the container will be positioned and respond to one another.
+- flex item
+: Children of flex containers. Use properties such as `flex-grow`, `flex-shrink`, `align-self` to customize how flex items look and function.
+### Site Navigation
+Navigation should use a nav tag.
+- You can have more than one nav
+- It is conventional to put an unordered list inside your nav for links, but not essential
+- To link to content on the same page, add an id tag to the link location and specify it in your link
+- nav link = <a href="#link-on-page">Link</a>, then add the id to the element like: <h2 id="link-on-page">Text</h2>
+- To open the link in a new tab use target="_blank" in your link tag-
+- A nav is often found inside a header or above a header. It depends on the site.
+## issue 
+Things to watch out for:
+
+Use heading and paragraph tags around text (all text should have a tag saying what kind of text it is
+use the text types for font-size
+be consistent with use of white space in css
+add more white space and comments to code.
+## TODO
+Going to be more careful about the tags, font-size, white space.
+Going to try validator before publish a page.
 ## Jan21, 2022 Journal Entry
 ### TODO
 -understand basic html, and load font to html.
