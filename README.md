@@ -1,4 +1,40 @@
 # Code-journal
+## Jan 28, 2022 Journal Entry
+## Class notes 
+### User Input types
+-text
+-radio buttons
+-checkboxes
+-datetime
+-email
+-color
+-date
+-tel
+-and more...
+### Add a label to each input
+### Input type="submit" is used for the submit button
+### Dropdown Menus use label, select, and option
+```
+<label for="desserts">Food Choices</label>
+<select name="desserts">
+  <option value="cake">Cake</option>
+  <option value="pie">Pie</option>
+  <option value="ice-cream">Ice Cream</option>
+  <option value="cupcake">Cupcake</option>
+</select> 
+```
+### TODO
+To code a shipping information form with different type of ``` <input> ``` 
+make it looks good and functional right.
+practice with ``` dislay: grid;``` 
+### issues
+super confuse about ``` grid-item(grid column 1/-1)``` 
+super confuse about  auto fit ? auto fill?
+### how to resovle the problems
+#### look up the documents.
+
+
+
 ## Jan 24, 2022 Journal Entry
 ## class notes
 ### Terminology
