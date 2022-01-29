@@ -32,6 +32,11 @@ super confuse about ``` grid-item(grid column 1/-1)```
 super confuse about  auto fit ? auto fill?
 ### how to resovle the problems
 #### look up the documents.
+https://www.w3schools.com/css/css_grid.asp
+https://www.w3schools.com/css/css_grid_container.asp
+https://www.w3schools.com/css/css_grid_item.asp
+after read these , a lot better. but still a little confused.
+will do more practices next week.
 
 
 
