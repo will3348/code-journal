@@ -1,4 +1,15 @@
 # Code-journal
+## Feb 1,2022 Journal Entry
+### Why Responsive Galleries?
+Mobile web traffic share has been growing every year and is over 65% now. People search for information, read, watch videos, buy goods and order services via mobile devices.
+### To create a responsive image gallery with flex box.
+- First, create the HTML. It’s a simple ``` <div> ```  that includes a couple of img tags. (add some class to your tag)
+- Reset CSS before doing anything. Also add the ``` box-sizing: border-box ``` property to the whole page so that the paddings and borders will be included in the total width and height. I need remember to use this CSS rule for flexbox, as otherwise paddings and borders might disappear at the end of the rows.
+- Set the flex container to ``` display: flex``` .
+- Wrap the images. To wrapp images, use ``` flex-wrap:    ;``` default value is nowrap which means that all items are laid out in a single line. If we set it to wrap, the images will flow into a grid. 
+- Use ``` justify-content``` to align the images.
+### To create a responsive image gallery with grid
+- I would consider about this procedure. link: https://www.freecodecamp.org/news/how-to-create-an-image-gallery-with-css-grid-e0f0fd666a5c/
 ## Jan 28, 2022 Journal Entry
 ## Class notes 
 ### User Input types
