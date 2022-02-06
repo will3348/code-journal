@@ -1,4 +1,31 @@
 # Code-journal
+## Feb 4,2022 Journal Entry
+### Hero Section
+A section of the website that is the first thing a user sees, it's generally really big, eye catching, and seeks to convey the identity and goal of a site. Hero sections also generally have a call to action.
+### Be careful!
+- Docs
+- Your form should be inside form tags
+- Use fieldset to wrap groups of inputs
+ 1. This is necessary for checkboxes and radio groups
+ 2. you can also group related fields together (like contact info) by using fieldset
+- every input needs a label
+ 1. whatever you write in an input's id should be also written in the label's for
+ 2. you can wrap the input in the label if you want.
+- the name is used to reference form data after it has been submitted
+- input type="submit" is used to create a form submission button. It should be inside the form tags
+### Transition Docs
+#### You can separate your transition declaration into:
+
+- transition-property -- the property being selected
+- transition-duration -- how long the animation takes
+- transition-timing-function -- defines how the transition moves through time
+- transition-delay -- you can set a delay on the animation
+#### You can short hand all the above values like this:
+``` 
+div {
+  transition: <property> <duration> <timing-function> <delay>;
+} 
+ ``` 
 ## Feb 1,2022 Journal Entry
 ### Why Responsive Galleries?
 Mobile web traffic share has been growing every year and is over 65% now. People search for information, read, watch videos, buy goods and order services via mobile devices.
